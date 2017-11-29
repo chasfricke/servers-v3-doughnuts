@@ -1,5 +1,5 @@
 module.exports = {
-  holes [{
+  holes: [{
     id: 1,
     type: 'Yeast Doughnut Holes'
   },
